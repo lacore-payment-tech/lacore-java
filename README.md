@@ -1,7 +1,6 @@
 # lacore-java
 
-[![Circle CI](https://circleci.com/gh/lacore-payment-tech/lacore-java/tree/master.svg?style=svg)](https://circleci.com/gh/lacore-payment-tech/lacore-java/tree/master)
-
+[![CircleCI](https://circleci.com/gh/lacore-payment-tech/lacore-java.svg?style=svg)](https://circleci.com/gh/lacore-payment-tech/lacore-java)
 
 ## Version history
 - 1.1.0
